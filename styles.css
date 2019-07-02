@@ -80,3 +80,12 @@ p{
 .fa-portrait:hover{
     color:#1c819e;
 }
+
+/*testimonial section*/
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center; 
+    background-color: grey; 
+    color: white; 
+}
