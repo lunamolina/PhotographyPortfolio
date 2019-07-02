@@ -1,0 +1,91 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#title{
+    background-color: silver; 
+}
+
+.container-fluid{
+    padding: 3% 15%;
+
+}
+
+h1{
+    font-size: 3rem;
+    line-height: 1.5; 
+    color: white; 
+    padding-left: 15px;
+    margin-right: 20px;
+}
+
+/*nav bar styles*/
+
+#navbar{
+    padding-bottom: 10px;
+    padding-top: 10px;  
+}
+
+.navbar-brand{
+    font-weight: 200; 
+}
+
+.nav-item{
+    padding: 0 18px; 
+}
+
+/*title buttons*/
+
+.title-buttons{
+    margin: 5% 3% 5% 3%;
+}
+
+/*carousel images*/
+.d-block{
+max-height: 450px;
+max-width: 400px; 
+}
+
+/*features*/
+
+#features{
+    padding: 7% 15%;  
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%; 
+}
+
+h3{
+font-size: 1.5rem;
+font-weight: 550; 
+}
+
+p{
+    color: #8f8f8f;
+}
+
+.icon{
+    margin-bottom: 1rem; 
+}
+.fa-mountain:hover{
+    color: #005542;
+}
+
+.fa-calendar-check:hover{
+    color:#ffbe00;
+}
+
+.fa-portrait:hover{
+    color:#1c819e;
+}
+
+/*testimonial section*/
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center; 
+    background-color: grey; 
+    color: white; 
+}
