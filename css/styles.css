@@ -3,7 +3,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 #title{
-    background-color: silver; 
+    background: linear-gradient(#212529, #ffff);
 }
 
 .container-fluid{
@@ -117,7 +117,7 @@ h2{
 
 #pricing{
     padding: 100px;
-    text-align: center; 
+    text-align: center;
 }
 
 .pricing-column{
