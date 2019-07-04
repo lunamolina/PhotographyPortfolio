@@ -137,3 +137,9 @@ p{
     text-align: center;
     font-size: 1rem; 
 }
+
+@media (max-width: 1028px) {
+    #title{
+        text-align: center; 
+    }
+}
