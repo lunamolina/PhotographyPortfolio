@@ -112,3 +112,15 @@ h2{
     font-size: 3rem;
     line-height: 1.5; 
 }
+
+/*pricing section*/
+
+#pricing{
+    padding: 100px;
+    text-align: center; 
+}
+
+.pricing-column{
+    padding: 3% 2%; 
+
+}
