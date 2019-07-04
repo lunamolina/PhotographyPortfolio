@@ -85,13 +85,15 @@ p{
 /*testimonial section*/
 
 #testimonials{
-    background-color: grey; 
+    background: linear-gradient(#ffff, #212529);
     color: white; 
+    text-align: center; 
 }
 
 .carousel-item{
     padding: 7% 15%;
     text-align: center; 
+    height: 400px;
     
 }
 
@@ -102,15 +104,19 @@ p{
 
 .testimonials-image-vertical{
     width: 20%;  
-    margin: 15px; 
+    margin: 15px 30px; 
+    padding-bottom: 50px; 
     float: left; 
+    height: 300px; 
+     
 }
 
 h2{
     font-family: 'Montserrat', sans-serif;
-    font-weight: 400; 
-    font-size: 3rem;
+    font-weight: 200; 
+    font-size: 2rem;
     line-height: 1.5; 
+    text-align: center; 
 }
 
 /*pricing section*/
