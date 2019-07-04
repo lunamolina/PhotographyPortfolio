@@ -85,16 +85,25 @@ p{
 /*testimonial section*/
 
 #testimonials{
-    padding: 7% 15%;
-    text-align: center; 
     background-color: grey; 
     color: white; 
 }
 
-.testimonials-image{
+.carousel-item{
+    padding: 7% 15%;
+    text-align: center; 
+    
+}
+
+.testimonials-image-horizontal{
     width: 25%; 
-    margin: 20px;
-     
+    margin: 20px; 
+}
+
+.testimonials-image-vertical{
+    width: 20%;  
+    margin: 15px; 
+    float: left; 
 }
 
 h2{
