@@ -91,6 +91,12 @@ p{
     color: white; 
 }
 
+.testimonials-image{
+    width: 25%; 
+    margin: 20px;
+     
+}
+
 h2{
     font-family: 'Montserrat', sans-serif;
     font-weight: 400; 
