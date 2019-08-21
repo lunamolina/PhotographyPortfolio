@@ -20,6 +20,23 @@ h1{
 }
 
 
+h2{
+    font-weight: 200; 
+    font-size: 2rem;
+    line-height: 1.5; 
+    text-align: center; 
+}
+
+h3{
+    font-size: 1.5rem;
+    font-weight: 550; 
+    }
+
+p{
+    text-align: center;
+    font-size: 1rem; 
+}
+
 /*nav bar styles*/
 
 #navbar{
@@ -56,15 +73,6 @@ max-width: 400px;
 .feature-box{
     text-align: center;
     padding: 5%; 
-}
-
-h3{
-font-size: 1.5rem;
-font-weight: 550; 
-}
-
-p{
-    color: #8f8f8f;
 }
 
 .icon{
@@ -118,13 +126,6 @@ p{
      
 }
 
-h2{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 200; 
-    font-size: 2rem;
-    line-height: 1.5; 
-    text-align: center; 
-}
 
 /*pricing section*/
 
@@ -140,13 +141,12 @@ h2{
 
 /*footer*/
 
-p{
-    text-align: center;
-    font-size: 1rem; 
-}
-
 @media (max-width: 1028px) {
     #title{
         text-align: center; 
     }
+}
+
+#footer{
+    color: #212529; 
 }
