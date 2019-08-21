@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
 #title{
     background: linear-gradient(#212529, #ffff);
@@ -24,7 +25,6 @@ h2{
     font-weight: 200; 
     font-size: 2rem;
     line-height: 1.5; 
-    text-align: center; 
 }
 
 h3{
@@ -33,7 +33,6 @@ h3{
     }
 
 p{
-    text-align: center;
     font-size: 1rem; 
 }
 
@@ -102,12 +101,10 @@ max-width: 400px;
 #testimonials{
     background: linear-gradient(#ffff, #212529);
     color: white; 
-    text-align: center; 
 }
 
 .carousel-item{
     padding: 7% 15%;
-    text-align: center; 
     height: 400px;
     
 }
@@ -131,7 +128,6 @@ max-width: 400px;
 
 #pricing{
     padding: 100px;
-    text-align: center;
 }
 
 .pricing-column{
